@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ride-london/static/css/main.073c9b0a.css",
+    "main.js": "/ride-london/static/js/main.276cbe8d.js",
+    "static/js/787.e4f57623.chunk.js": "/ride-london/static/js/787.e4f57623.chunk.js",
+    "static/media/logo.svg": "/ride-london/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ride-london/index.html",
+    "main.073c9b0a.css.map": "/ride-london/static/css/main.073c9b0a.css.map",
+    "main.276cbe8d.js.map": "/ride-london/static/js/main.276cbe8d.js.map",
+    "787.e4f57623.chunk.js.map": "/ride-london/static/js/787.e4f57623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.276cbe8d.js"
+  ]
+}
